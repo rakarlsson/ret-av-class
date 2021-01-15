@@ -1,1 +1,1 @@
-# Artery-Vein-Classification-in-Retinal-Images-Using-Convolutional-Neural-Networks
+# Artery vein classification in fundus images using serially connected U-Nets
